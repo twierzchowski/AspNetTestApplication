@@ -10,6 +10,7 @@ namespace AspNetTestApplication.Controllers
     {
         public ActionResult Index()
         {
+
             return View();
         }
 
